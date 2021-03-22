@@ -1,0 +1,36 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.bg-orange {
+    background-color: rgb(255, 183, 49);
+}
+
+.kiri {
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.kanan {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 10%;
+    float: right;
+}
+
+.card {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 12px;
+}

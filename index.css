@@ -1,0 +1,18 @@
+#gambar1 {
+    width: 800px;
+}
+
+#text-left {
+    width: 500px;
+}
+
+.warna-biru {
+    color: white;
+    background-color: blue;
+}
+
+@media only screen and (max-width: 900px) {
+    #gambar1 {
+        width: 300px;
+    }
+}
